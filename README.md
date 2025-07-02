@@ -6,8 +6,8 @@ A simple Windows Forms application built in C# for managing gym members, staff, 
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Classes Overview](#classes-overview)
+- [UML Diagram](#uml-diagram)
 - [OOP Concepts Demonstrated](#oop-concepts-demonstrated)
-- [Requirements](#requirements)
 
 ## ✨ Features
 
@@ -70,6 +70,21 @@ GymManagementSystem/
 - **CoachType**: CrossFit, PowerLifter, PersonalTrainer, Lifestyle
 - **DieticianType**: WeightLoss
 
+## 📊 UML Diagram
+
+The complete UML class diagram for this project can be found in the `/UML` directory:
+- **File**: `GymManagementSystem_UML.png` or `GymManagementSystem_UML.pdf`
+- **Path**: `/UML/GymManagementSystem_UML`
+
+The UML diagram shows:
+- Class relationships and inheritance hierarchy
+- Interface implementations
+- Composition relationships between classes
+- All properties and methods for each class
+- Enum definitions and their relationships
+
+Please refer to the UML diagram for a visual representation of the class structure and relationships implemented in this project.
+
 ## 🎯 OOP Concepts Demonstrated
 
 ### 1. **Inheritance**
@@ -93,12 +108,6 @@ GymManagementSystem/
 - `Members` class contains `Email` and `PhoneNumber` objects
 - `Gym` class contains collections of members and staff
 
-## 📋 Requirements
-
-- **Development Environment**: Visual Studio 2019+
-- **Framework**: .NET Framework 4.7.2+
-- **Platform**: Windows
-- **Language**: C# 8.0+
 
 ## 🎓 Academic Context
 
