@@ -73,7 +73,7 @@ GymManagementSystem/
 ## 📊 UML Diagram
 
 The complete UML class diagram for this project can be found in the `/UML` directory:
-- **File**: `GymManagementSystem_UML.png` or `GymManagementSystem_UML.pdf`
+- **File**: `GymManagementSystem_UML.png`
 - **Path**: `/UML/GymManagementSystem_UML`
 
 The UML diagram shows:
