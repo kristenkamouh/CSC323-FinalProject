@@ -1,0 +1,16 @@
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\bin\Debug\net8.0-windows\CSC323FinalProject.exe
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\bin\Debug\net8.0-windows\CSC323FinalProject.deps.json
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\bin\Debug\net8.0-windows\CSC323FinalProject.runtimeconfig.json
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\bin\Debug\net8.0-windows\CSC323FinalProject.dll
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\bin\Debug\net8.0-windows\CSC323FinalProject.pdb
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.Form1.resources
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.csproj.GenerateResource.cache
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.AssemblyInfoInputs.cache
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.AssemblyInfo.cs
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.dll
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\refint\CSC323FinalProject.dll
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.pdb
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\CSC323FinalProject.genruntimeconfig.cache
+C:\Users\Kristen\Desktop\kristen\NDU\Summer\Summer 2025\CSC 323\Project\CSC323FinalProject\CSC323FinalProject\obj\Debug\net8.0-windows\ref\CSC323FinalProject.dll
